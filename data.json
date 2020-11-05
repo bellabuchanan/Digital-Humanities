@@ -1,0 +1,98 @@
+[{
+    "go": "Pre", 
+    "rec": "RNC",
+    "<I-Bond": 52.57,
+    "D-Bond": 31.93,
+    "C-Bond": 0.77,
+    "COEM": 14.55,
+    "No bail": 0.19
+},{
+    "go": "Post",
+    "rec": "RNC",
+    "<I-Bond": 72.01,
+    "D-Bond": 22.95,
+    "C-Bond": 0.04,
+    "COEM": 4.20,
+    "No bail": 0.81
+},{
+    "go": "Pre", 
+    "rec": "If Rel, PTS 1-3",
+    "<I-Bond": 21.49,
+    "D-Bond": 47.98,
+    "C-Bond": 0.46,
+    "COEM": 29.66,
+    "No bail": 0.42
+},{
+    "go": "Post",
+    "rec": "If Rel, PTS 1-3",
+    "<I-Bond": 57.81,
+    "D-Bond": 30.33,
+    "C-Bond": 0.02,
+    "COEM": 8.42,
+    "No bail": 3.43
+},{
+    "go": "Pre", 
+    "rec": "If Rel, PTS HC",
+    "<I-Bond": 9.31,
+    "D-Bond": 65.18,
+    "C-Bond": 1.42,
+    "COEM": 23.68,
+    "No bail": 0.40
+},{
+    "go": "Post",
+    "rec": "If Rel, PTS HC",
+    "<I-Bond": 41.22,
+    "D-Bond": 41.76,
+    "C-Bond": 0.00,
+    "COEM": 12.54,
+    "No bail": 4.48
+},{
+    "go": "Pre", 
+    "rec": "If Rel, MC",
+    "<I-Bond": 4.53,
+    "D-Bond": 75.15,
+    "C-Bond": 0.40,
+    "COEM": 15.35,
+    "No bail": 4.56
+},{
+    "go": "Post",
+    "rec": "If Rel, MC",
+    "<I-Bond": 12.95,
+    "D-Bond": 41.22,
+    "C-Bond": 0.04,
+    "COEM": 15.43,
+    "No bail": 30.37
+},{
+    "go": "Pre", 
+    "rec": "If Rel, COEM",
+    "<I-Bond": 11.22,
+    "D-Bond": 55.98,
+    "C-Bond": 0.28,
+    "COEM": 32.13,
+    "No bail": 0.39
+},{
+    "go": "Post",
+    "rec": "If Rel, COEM",
+    "<I-Bond": 27.70,
+    "D-Bond": 37.63,
+    "C-Bond": 0.05,
+    "COEM": 30.02,
+    "No bail": 4.60
+},{
+    "go": "Pre", 
+    "rec": "If Rel, PTM",
+    "<I-Bond": 33.94,
+    "D-Bond": 40.94,
+    "C-Bond": 0.73,
+    "COEM": 24.24,
+    "No bail": 0.15
+
+},{
+    "go": "Post",
+    "rec": "If Rel, PTM",
+    "<I-Bond": 64.46,
+    "D-Bond": 28.31,
+    "C-Bond": 0.02,
+    "COEM": 5.39,
+    "No bail": 1.83 
+}]
