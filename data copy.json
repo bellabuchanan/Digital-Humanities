@@ -1,6 +1,6 @@
 [{
-    "sex": "female",
-    "ses": "low",
+    "go": "female",
+    "rec": "low",
     "<High School": 5.4,
     "High School": 17.1,
     "Some Post-secondary": 36.2,
@@ -8,8 +8,8 @@
     "Associate’s": 9.3,
     "Bachelor’s and up": 15.9
 },{
-    "sex": "male",
-    "ses": "low",
+    "go": "male",
+    "rec": "low",
     "<High School": 10.0,
     "High School": 26.5,
     "Some Post-secondary": 35.8,
@@ -17,8 +17,8 @@
     "Associate’s": 6.9,
     "Bachelor’s and up": 12.2
 },{
-    "sex": "male",
-    "ses": "middle",
+    "go": "male",
+    "rec": "middle",
     "<High School": 2.7,
     "High School": 17.3,
     "Some Post-secondary": 36.5,
@@ -26,8 +26,8 @@
     "Associate’s": 8.6,
     "Bachelor’s and up": 24.8
 },{
-    "sex": "female",
-    "ses": "middle",
+    "go": "female",
+    "rec": "middle",
     "<High School": 2.4,
     "High School": 8.9,
     "Some Post-secondary": 32.9,
@@ -35,8 +35,8 @@
     "Associate’s": 11.0,
     "Bachelor’s and up": 32.8
 },{
-    "sex": "male",
-    "ses": "high",
+    "go": "male",
+    "rec": "high",
     "<High School": 0.8,
     "High School": 4.4,
     "Some Post-secondary": 27.1,
@@ -44,8 +44,8 @@
     "Associate’s": 7.5,
     "Bachelor’s and up": 55.3
 },{
-    "sex": "female",
-    "ses": "high",
+    "go": "female",
+    "rec": "high",
     "<High School": 0,
     "High School": 1.8,
     "Some Post-secondary": 20.1,
