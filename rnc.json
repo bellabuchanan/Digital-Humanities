@@ -1,0 +1,18 @@
+[{
+    "go": "Pre", 
+    "rec": "RNC",
+    "<I-Bond": 52.57,
+    "D-Bond": 31.93,
+    "C-Bond": 0.77,
+    "COEM": 14.55,
+    "No bail": 0.19
+},{
+    "go": "Post",
+    "rec": "RNC",
+    "<I-Bond": 72.01,
+    "D-Bond": 22.95,
+    "C-Bond": 0.04,
+    "COEM": 4.20,
+    "No bail": 0.81
+}]
+
