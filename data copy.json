@@ -6,7 +6,8 @@
     "Some Post-secondary": 36.2,
     "Post-secondary": 16.0,
     "Associate’s": 9.3,
-    "Bachelor’s and up": 15.9
+    "Bachelor’s and up": 14.9,
+    "test":1
  },{
     "go": "Post",
     "rec": "low",
@@ -15,7 +16,8 @@
     "Some Post-secondary": 35.8,
     "Post-secondary": 8.7,
     "Associate’s": 6.9,
-    "Bachelor’s and up": 12.2
+    "Bachelor’s and up": 11.2,
+    "test":1
  },{
     "go": "Post",
     "rec": "middle",
@@ -24,7 +26,8 @@
     "Some Post-secondary": 36.5,
     "Post-secondary": 10.1,
     "Associate’s": 8.6,
-    "Bachelor’s and up": 24.8
+    "Bachelor’s and up": 23.8,
+    "test":1
  },{
     "go": "Pre",
     "rec": "middle",
@@ -33,7 +36,8 @@
     "Some Post-secondary": 32.9,
     "Post-secondary": 12.1,
     "Associate’s": 11.0,
-    "Bachelor’s and up": 32.8
+    "Bachelor’s and up": 31.8,
+    "test":1
  },{
     "go": "Post",
     "rec": "high",
@@ -42,7 +46,8 @@
     "Some Post-secondary": 27.1,
     "Post-secondary": 4.8,
     "Associate’s": 7.5,
-    "Bachelor’s and up": 55.3
+    "Bachelor’s and up": 54.3,
+    "test":1
  },{
     "go": "Pre",
     "rec": "high",
@@ -51,6 +56,7 @@
     "Some Post-secondary": 20.1,
     "Post-secondary": 6.2,
     "Associate’s": 5.9,
-    "Bachelor’s and up": 65.7
+    "Bachelor’s and up": 64.7,
+    "test":1
  }]
  
