@@ -1,0 +1,29 @@
+[{
+    "go": "white", 
+    "group-total": 4089,
+    "rec": "If Rel, MC",
+    "C-Bond": 0.00,
+    "COEM": 16.30,
+    "D-Bond": 45.21,
+    "I-Bond": 18.66,
+    "No bail": 19.83
+},{
+    "go": "black",
+    "group-total": 21013,
+    "rec": "If Rel, MC",
+    "C-Bond": 0.00,
+    "COEM": 16.11,
+    "D-Bond": 39.62,
+    "I-Bond": 12.14,
+    "No bail": 32.12
+},{
+    "go": "poc",
+    "group-total": 30432,
+    "rec": "If Rel, MC",
+    "C-Bond": 0.05,
+    "COEM": 15.31,
+    "D-Bond": 40.68,
+    "I-Bond": 12.17,
+    "No bail": 31.80
+}]
+

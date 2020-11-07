@@ -1,0 +1,26 @@
+[{
+    "go": "white", 
+    "rec": "RNC",
+    "C-Bond": 0.10,
+    "COEM": 2.66,
+    "D-Bond": 19.11,
+    "I-Bond": 77.19,
+    "No bail": 0.95
+},{
+    "go": "black",
+    "rec": "RNC",
+    "C-Bond": 0.03,
+    "COEM": 4.85,
+    "D-Bond": 25.80,
+    "I-Bond": 68.47,
+    "No bail": 0.84
+},{
+    "go": "poc",
+    "rec": "RNC",
+    "C-Bond": 0.02,
+    "COEM": 4.57,
+    "D-Bond": 23.90,
+    "I-Bond": 70.74,
+    "No bail": 0.19
+}]
+
