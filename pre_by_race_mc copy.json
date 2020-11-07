@@ -1,6 +1,6 @@
 [{
     "go": "white", 
-    "group-total": 4561,
+    "people": 4561,
     "rec": "If Rel, MC",
     "C-Bond": 0.40,
     "COEM": 15.11,
@@ -9,7 +9,7 @@
     "No bail": 2.78
 },{
     "go": "poc",
-    "group-total": 23986,
+    "people": 23986,
     "rec": "If Rel, MC",
     "C-Bond": 0.40,
     "COEM": 15.39,
