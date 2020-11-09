@@ -1,0 +1,110 @@
+[
+    {
+        "C-Bond": 0.0,
+        "COEM": 23.87,
+        "D-Bond": 58.56,
+        "I-Bond": 17.12,
+        "No bail": 0.45,
+        "go": "white",
+        "rec": "If Rel, COEM"
+    },
+    {
+        "C-Bond": 0.32,
+        "COEM": 33.31,
+        "D-Bond": 55.61,
+        "I-Bond": 10.37,
+        "No bail": 0.39,
+        "go": "poc",
+        "rec": "If Rel, COEM"
+    },
+    {
+        "C-Bond": 0.4,
+        "COEM": 15.11,
+        "D-Bond": 74.55,
+        "I-Bond": 7.16,
+        "No bail": 2.79,
+        "go": "white",
+        "rec": "If Rel, MC"
+    },
+    {
+        "C-Bond": 0.4,
+        "COEM": 15.39,
+        "D-Bond": 75.24,
+        "I-Bond": 4.18,
+        "No bail": 4.8,
+        "go": "poc",
+        "rec": "If Rel, MC"
+    },
+    {
+        "C-Bond": 0.45,
+        "COEM": 22.27,
+        "D-Bond": 34.65,
+        "I-Bond": 42.52,
+        "No bail": 0.11,
+        "go": "white",
+        "rec": "If Rel, PTM"
+    },
+    {
+        "C-Bond": 0.79,
+        "COEM": 24.63,
+        "D-Bond": 42.2,
+        "I-Bond": 32.22,
+        "No bail": 0.16,
+        "go": "poc",
+        "rec": "If Rel, PTM"
+    },
+    {
+        "C-Bond": 0.16,
+        "COEM": 23.67,
+        "D-Bond": 45.64,
+        "I-Bond": 30.21,
+        "No bail": 0.32,
+        "go": "white",
+        "rec": "If Rel, PTS 1-3"
+    },
+    {
+        "C-Bond": 0.49,
+        "COEM": 30.39,
+        "D-Bond": 48.26,
+        "I-Bond": 20.42,
+        "No bail": 0.43,
+        "go": "poc",
+        "rec": "If Rel, PTS 1-3"
+    },
+    {
+        "C-Bond": 0.0,
+        "COEM": 25.0,
+        "D-Bond": 62.5,
+        "I-Bond": 12.5,
+        "No bail": 0.0,
+        "go": "white",
+        "rec": "If Rel, PTS HC"
+    },
+    {
+        "C-Bond": 1.63,
+        "COEM": 23.49,
+        "D-Bond": 65.58,
+        "I-Bond": 8.84,
+        "No bail": 0.47,
+        "go": "poc",
+        "rec": "If Rel, PTS HC"
+    },
+    {
+        "C-Bond": 0.1,
+        "COEM": 10.91,
+        "D-Bond": 22.01,
+        "I-Bond": 66.8,
+        "No bail": 0.19,
+        "go": "white",
+        "rec": "RNC"
+    },
+    {
+        "C-Bond": 0.93,
+        "COEM": 15.43,
+        "D-Bond": 34.32,
+        "I-Bond": 49.14,
+        "No bail": 0.19,
+        "go": "poc",
+        "rec": "RNC"
+    }
+]
